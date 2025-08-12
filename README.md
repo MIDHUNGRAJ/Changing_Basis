@@ -80,7 +80,7 @@ The script is built around translating between two coordinate systems:
    ```
 
 3. Run the script:
-    ```python
-    python change_of_basis.py
-    ```
+   ```python
+   python change_of_basis.py
+   ```
 
