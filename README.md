@@ -71,14 +71,16 @@ The script is built around translating between two coordinate systems:
 1. Install **Python** and **NumPy**:
    ```bash
    pip install numpy
+   ```
 
 
 2. Save the code as a Python file:
    ```python
    change_of_basis.py
-    ```
+   ```
 
 3. Run the script:
     ```python
     python change_of_basis.py
     ```
+
